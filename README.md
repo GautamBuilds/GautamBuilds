@@ -4,15 +4,15 @@
 <p> Hi there! I am Gautam, a programmer and aspiring software engineer with strong problem solving skills. I have experience in Full Stack Development and learning AI/ML, DevOps and DSA. I enjoy building intelligent solutions and scalable applications while continuously learning and innovating.</p>
 
 <p align="center">
-  <a href="https://github.com/GautamPrasadUpadhyay"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="255"></a>
+  <a href="https://github.com/GautamBuilds"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="255"></a>
   
 </p>
 
 <p align="center">
-  <a href="https://github.com/GautamPrasadUpadhyay">
+  <a href="https://github.com/GautamBuilds">
     <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/GautamPrasadUpadhyay/count.svg" />
+  <img src="https://profile-counter.glitch.me/GautamBuilds/count.svg" />
 </p>
   </a>
   </a>
@@ -60,24 +60,24 @@
 <tr>
 <td>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamPrasadUpadhyay&layout=compact&theme=dark&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamBuilds&layout=compact&theme=dark&show_icons=true">
     <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0898&layout=compact&theme=dark&show_icons=true"/>
 </picture>
 </td>
 <td>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=GautamPrasadUpadhyay&theme=dark&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=GautamBuilds&theme=dark&show_icons=true">
     <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true"/>
 </picture>
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/GautamPrasadUpadhyay">
+<a href="https://github.com/GautamBuilds">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&theme=dark&hide_border=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false">
-  <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=GautamPrasadUpadhyay&hide_border=false" alt="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamBuilds&theme=dark&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=GautamBuilds&hide_border=false">
+  <img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=GautamBuilds&hide_border=false" alt="">
 </picture>
 
 
